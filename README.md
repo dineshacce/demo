@@ -1,3 +1,3 @@
 # demo
-sample repo
+sample rep
 hello Chennai
